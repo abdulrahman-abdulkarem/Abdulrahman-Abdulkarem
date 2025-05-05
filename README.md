@@ -23,62 +23,46 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**  
+**Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat&logo=typescript)
-![C++](https://img.shields.io/badge/-C++-181717?style=flat&logo=c%2B%2B)
-
-**Frameworks & Tools**  
 ![React](https://img.shields.io/badge/-React-181717?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-181717?style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-181717?style=flat&logo=next.js)
 
-**Databases**  
+**Databases & Tools**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat&logo=mysql)
-
-**DevOps & Other**  
-![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-181717?style=flat&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)
 ![Figma](https://img.shields.io/badge/-Figma-181717?style=flat&logo=figma)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Summary
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&count_private=true&show_icons=true&theme=react&hide_border=true" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=react&hide_border=true&border_radius=5" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&row=1&margin-w=15&no-frame=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react&hide_border=true" width="45%" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 📬 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:karim.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox-browser&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👀 Visitor Count
+### 👀 Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=brightgreen"/>

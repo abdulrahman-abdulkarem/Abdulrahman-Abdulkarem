@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I’m **Abdulrahman Abdulkarem**, currently pursuing a Bachelor's degree in Software Engineering. My interests span across **AI**, **web development**, **mobile apps**, **UI/UX design**, and the **Internet of Things (IoT)**. I’m passionate about blending creativity with technology to build intuitive and impactful digital experiences.
+I’m **Abdulrahman Abdulkarem**, currently pursuing a Bachelor's degree in Software Engineering. My interests span across **AI**, **Web development**, **Mobile apps**, **UI/UX design**, and the **Internet of Things (IoT)**. I’m passionate about blending creativity with technology to build intuitive and impactful digital experiences.
 
 Currently, I’m diving deeper into the exciting world of **IoT**, learning how devices, code, and connectivity can shape the future. I believe in continuous learning, solving real-world problems, and designing systems that make life smarter and easier.
 
@@ -48,7 +48,6 @@ Currently, I’m diving deeper into the exciting world of **IoT**, learning how 
 <p>
   <img src="https://skillicons.dev/icons?i=git" width="25"/> Git &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=figma" width="25"/> Figma &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=canva" width="25"/> Canva &nbsp;&nbsp;&nbsp;
 </p>
 
 ---

@@ -47,17 +47,28 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Summary & Insights
 
-<!-- GitHub Stats -->
+<!-- 🔹 GitHub Profile Summary Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahman-abdulkarem&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=abdulrahman-abdulkarem&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahman-abdulkarem&theme=tokyonight" width="90%" />
 </p>
 
-<!-- Most Used Languages -->
+<!-- 🔸 Contribution Stats & Productive Time -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-abdulkarem&layout=compact&theme=radical&hide_border=true" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrahman-abdulkarem&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrahman-abdulkarem&theme=tokyonight&utcOffset=8" width="45%" />
+</p>
+
+<!-- 🔥 Commit Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrahman-abdulkarem&theme=tokyonight&hide_border=true" width="90%"/>
+</p>
+
+<!-- 🎨 Language Usage -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrahman-abdulkarem&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulrahman-abdulkarem&theme=tokyonight" width="45%" />
 </p>
 
 ---

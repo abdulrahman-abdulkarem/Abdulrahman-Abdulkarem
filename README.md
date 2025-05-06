@@ -1,4 +1,4 @@
-<!-- INTRO: Typing Animation -->
+=<!-- INTRO: Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Karim+Mostafa+Ahmed;Software+Engineer+%7C+AI+Explorer+%7C+Problem+Solver;Welcome+to+my+GitHub+profile!">
 </p>
@@ -47,15 +47,28 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Summary & Insights
 
+<!-- GitHub Compact Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight" width="90%" />
 </p>
 
+<!-- Contribution Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-username&theme=tokyonight" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-username&theme=tokyonight&utcOffset=8" width="45%" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&hide_border=true" width="90%"/>
+</p>
+
+<!-- Language Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=your-username&theme=tokyonight" width="45%" />
 </p>
 
 ---

@@ -1,6 +1,6 @@
 <!-- INTRO: Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Abdulrahman+Abdulkarem;Software+Engineer+%7C+IoT+Explorer+%7C+Creative+Thinker;Welcome+to+my+GitHub+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Abdulrahman+Abdulkarem;Software+Engineer+%7C+IoT+Explorer+%7C+Creative+Thinker;Welcome+to+my+GitHub+profile!">
 </p>
 
 ---
@@ -78,7 +78,7 @@ Currently, I’m diving deeper into the exciting world of **IoT**, learning how 
 
 <!-- Typing Text -->
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFBB&width=600&lines=Have+a+project%3F+Need+a+dev%3F+Let's+talk.;I'm+just+an+email+away...;Or+connect+on+your+favorite+platform.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&width=600&lines=Have+a+project%3F+Need+a+dev%3F+Let's+talk.;I'm+just+an+email+away...;Or+connect+on+your+favorite+platform.">
 </p>
 
 <!-- Icon Buttons: Minimal Round -->

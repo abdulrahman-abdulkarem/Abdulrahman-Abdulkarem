@@ -23,34 +23,42 @@
 
 ## 🧠 Tech Stack
 
+---
+
 ### 👨‍💻 Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="25"/> &nbsp; Python &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="25"/> &nbsp; JavaScript &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="25"/> &nbsp; TypeScript &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="25"/> &nbsp; C++
 </p>
+
+---
 
 ### ⚙️ Frameworks & Libraries  
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="25"/> &nbsp; React &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> &nbsp; Node.js &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="25"/> &nbsp; Express &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="25"/> &nbsp; Next.js
 </p>
 
-### 🗄 Databases  
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+---
+
+### 🗄️ Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="25"/> &nbsp; MongoDB &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="25"/> &nbsp; MySQL
 </p>
+
+---
 
 ### 🚀 DevOps & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" width="25"/> &nbsp; Docker &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="25"/> &nbsp; Git &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="25"/> &nbsp; Postman &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="25"/> &nbsp; Figma
 </p>
 
 ---

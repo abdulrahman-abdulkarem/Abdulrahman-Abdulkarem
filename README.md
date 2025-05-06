@@ -80,22 +80,20 @@
 </p>
 
 <p align="center">
-  <a href="mailto:abdulrahman@example.com" title="Send me an email">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" title="Visit my LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com" title="Check out my portfolio">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://github.com/abdulrahman-abdulkarem" title="My GitHub profile">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white" />
+  <a href="mailto:abdulrahman@example.com" target="_blank" title="Email me">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank" title="Connect on LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/abdulrahman-abdulkarem" target="_blank" title="Visit GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://your-portfolio.com" target="_blank" title="See my Portfolio">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" width="40" height="40"/>
   </a>
 </p>
 
 <p align="center">
   <em>"Open to collaborations, freelance gigs, or a good chat over coffee ☕"</em>
 </p>
-
-

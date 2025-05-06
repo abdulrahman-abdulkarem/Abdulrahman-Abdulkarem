@@ -1,4 +1,4 @@
-=<!-- INTRO: Typing Animation -->
+<!-- INTRO: Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Karim+Mostafa+Ahmed;Software+Engineer+%7C+AI+Explorer+%7C+Problem+Solver;Welcome+to+my+GitHub+profile!">
 </p>
@@ -23,40 +23,34 @@
 
 ## 🧠 Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="30" />&nbsp; **Python** &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" height="30" />&nbsp; **JavaScript** &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" height="30" />&nbsp; **TypeScript** &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" />&nbsp; **C++**
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
 
----
-
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Libraries  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="30" />&nbsp; **React** &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" />&nbsp; **Node.js** &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="30" />&nbsp; **Express** &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" />&nbsp; **Next.js**
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
----
-
-### 🗄️ Databases
+### 🗄 Databases  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" />&nbsp; **MongoDB** &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" />&nbsp; **MySQL**
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
-
-### 🚀 DevOps & Tools
+### 🚀 DevOps & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="30" />&nbsp; **Docker** &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" height="30" />&nbsp; **Git** &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="30" />&nbsp; **Postman** &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" height="30" />&nbsp; **Figma**
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---

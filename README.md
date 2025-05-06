@@ -15,42 +15,72 @@
 
 > *"Code is poetry when done with passion and purpose."*
 
----
-
 ## 🧠 Tech Stack
 
+---
 
 ### 👨‍💻 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=python" width="25"/> &nbsp; Python &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="25"/> &nbsp; JavaScript &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="25"/> &nbsp; TypeScript &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="25"/> &nbsp; C++
+<p align="left">
+  <a href="https://www.python.org" title="General-purpose programming language">
+    <img src="https://skillicons.dev/icons?i=python" width="25"/> Python
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Web scripting language">
+    <img src="https://skillicons.dev/icons?i=js" width="25"/> JavaScript
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" title="Typed JavaScript">
+    <img src="https://skillicons.dev/icons?i=ts" width="25"/> TypeScript
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org/" title="High-performance compiled language">
+    <img src="https://skillicons.dev/icons?i=cpp" width="25"/> C++
+  </a>
 </p>
 
+---
 
 ### ⚙️ Frameworks & Libraries  
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="25"/> &nbsp; React &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> &nbsp; Node.js &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="25"/> &nbsp; Express &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="25"/> &nbsp; Next.js
+<p align="left">
+  <a href="https://react.dev" title="UI library for building frontend apps">
+    <img src="https://skillicons.dev/icons?i=react" width="25"/> React
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org" title="JavaScript runtime for backend">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> Node.js
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://expressjs.com/" title="Web framework for Node.js">
+    <img src="https://skillicons.dev/icons?i=express" width="25"/> Express
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://nextjs.org/" title="Full-stack React framework">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="25"/> Next.js
+  </a>
 </p>
 
+---
 
-### 🗄️ Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="25"/> &nbsp; MongoDB &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="25"/> &nbsp; MySQL
+### 🗄 Databases  
+<p align="left">
+  <a href="https://www.mongodb.com/" title="NoSQL document database">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="25"/> MongoDB
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" title="Popular open-source relational DB">
+    <img src="https://skillicons.dev/icons?i=mysql" width="25"/> MySQL
+  </a>
 </p>
 
+---
 
 ### 🚀 DevOps & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" width="25"/> &nbsp; Docker &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="25"/> &nbsp; Git &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="25"/> &nbsp; Postman &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="25"/> &nbsp; Figma
+<p align="left">
+  <a href="https://www.docker.com/" title="Containerization tool">
+    <img src="https://skillicons.dev/icons?i=docker" width="25"/> Docker
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" title="Version control system">
+    <img src="https://skillicons.dev/icons?i=git" width="25"/> Git
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postman.com/" title="API testing platform">
+    <img src="https://skillicons.dev/icons?i=postman" width="25"/> Postman
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/" title="UI/UX design tool">
+    <img src="https://skillicons.dev/icons?i=figma" width="25"/> Figma
+  </a>
 </p>
 
 ---

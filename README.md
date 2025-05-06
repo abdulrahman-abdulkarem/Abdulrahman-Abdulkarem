@@ -1,56 +1,54 @@
 <!-- INTRO: Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Karim+Mostafa+Ahmed;Software+Engineer+%7C+AI+Explorer+%7C+Problem+Solver;Welcome+to+my+GitHub+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Abdulrahman+Abdulkarem;Software+Engineer+%7C+IoT+Explorer+%7C+Creative+Thinker;Welcome+to+my+GitHub+profile!">
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year Software Engineering student  
-- 🧠 Passionate about building scalable apps & smart systems  
-- 🚀 Currently exploring: **Next.js**, **LLMs**, **Docker**, and **Serverless Functions**  
-- 📌 Interested in: Full-stack development, AI, and open source  
-- 📫 Contact me at: **karim.email@example.com**
+I’m **Abdulrahman Abdulkarem**, currently pursuing a Bachelor's degree in Software Engineering. My interests span across **AI**, **web development**, **mobile apps**, **UI/UX design**, and the **Internet of Things (IoT)**. I’m passionate about blending creativity with technology to build intuitive and impactful digital experiences.
 
-> *"Code is poetry when done with passion and purpose."*
+Currently, I’m diving deeper into the exciting world of **IoT**, learning how devices, code, and connectivity can shape the future. I believe in continuous learning, solving real-world problems, and designing systems that make life smarter and easier.
+
+> “The best way to predict the future is to invent it.” — Alan Kay
 
 ---
 
 ## 🧠 Tech Stack
 
-
 ### 👨‍💻 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python" width="25"/> &nbsp; Python &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="25"/> &nbsp; JavaScript &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="25"/> &nbsp; TypeScript &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="25"/> &nbsp; C++
+  <img src="https://skillicons.dev/icons?i=java" width="25"/> Java &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="25"/> JavaScript &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="25"/> HTML &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="25"/> CSS &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="25"/> PHP &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart" width="25"/> Dart &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="25"/> Python &nbsp;&nbsp;&nbsp;
 </p>
-
 
 ### ⚙️ Frameworks & Libraries  
 <p>
-  <img src="https://skillicons.dev/icons?i=react" width="25"/> &nbsp; React &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> &nbsp; Node.js &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="25"/> &nbsp; Express &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" width="25"/> &nbsp; Next.js
+  <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> Node.js &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter" width="25"/> Flutter &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="25"/> React &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="25"/> Bootstrap &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwindcss" width="25"/> TailwindCSS
 </p>
 
-
-### 🗄️ Databases  
+### 🗄️ Databases & Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="25"/> &nbsp; MongoDB &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="25"/> &nbsp; MySQL
+  <img src="https://skillicons.dev/icons?i=firebase" width="25"/> Firebase &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="25"/> MongoDB &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="25"/> MySQL &nbsp;&nbsp;&nbsp;
 </p>
-
 
 ### 🚀 DevOps & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=docker" width="25"/> &nbsp; Docker &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="25"/> &nbsp; Git &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="25"/> &nbsp; Postman &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="25"/> &nbsp; Figma
+  <img src="https://skillicons.dev/icons?i=git" width="25"/> Git &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="25"/> Figma &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=canva" width="25"/> Canva &nbsp;&nbsp;&nbsp;
 </p>
 
 ---

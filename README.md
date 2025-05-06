@@ -23,48 +23,41 @@
 
 ## 🧠 Tech Stack
 
----
-
 ### 👨‍💻 Languages
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="40"/> <br> **Python**  
-  <img src="https://skillicons.dev/icons?i=js" height="40"/> <br> **JavaScript**  
-  <img src="https://skillicons.dev/icons?i=ts" height="40"/> <br> **TypeScript**  
-  <img src="https://skillicons.dev/icons?i=cpp" height="40"/> <br> **C++**
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="30" />&nbsp; **Python** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" height="30" />&nbsp; **JavaScript** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" height="30" />&nbsp; **TypeScript** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" />&nbsp; **C++**
+</p>
 
 ---
 
 ### ⚙️ Frameworks & Libraries
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="40"/> <br> **React**  
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> <br> **Node.js**  
-  <img src="https://skillicons.dev/icons?i=express" height="40"/> <br> **Express.js**  
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40"/> <br> **Next.js**
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="30" />&nbsp; **React** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" />&nbsp; **Node.js** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="30" />&nbsp; **Express** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" />&nbsp; **Next.js**
+</p>
 
 ---
 
-### 🗄 Databases
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> <br> **MongoDB**  
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/> <br> **MySQL**
-</div>
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" />&nbsp; **MongoDB** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" />&nbsp; **MySQL**
+</p>
 
 ---
 
 ### 🚀 DevOps & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/> <br> **Docker**  
-  <img src="https://skillicons.dev/icons?i=git" height="40"/> <br> **Git**  
-  <img src="https://skillicons.dev/icons?i=postman" height="40"/> <br> **Postman**  
-  <img src="https://skillicons.dev/icons?i=figma" height="40"/> <br> **Figma**
-</div>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="30" />&nbsp; **Docker** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="30" />&nbsp; **Git** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="30" />&nbsp; **Postman** &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" height="30" />&nbsp; **Figma**
+</p>
 
 ---
 

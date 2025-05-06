@@ -84,7 +84,7 @@ Currently, I’m diving deeper into the exciting world of **IoT**, learning how 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFBB&width=650&lines=Have+a+project%3F+Need+a+dev%3F+Let's+talk.;I'm+just+an+email+away...;Or+connect+on+your+favorite+platform.">
 </p>
 
-<p align="left" style="margin-top: -10px;">
+<p align="left" style="margin-top: -50px;">
   <a href="https://www.linkedin.com/in/abdulrahman-alrawdhi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>

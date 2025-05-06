@@ -73,14 +73,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&row=1&margin-w=15&no-frame=true"/>
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
@@ -90,9 +82,3 @@
 </p>
 
 ---
-
-### 👀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=brightgreen"/>
-</p>

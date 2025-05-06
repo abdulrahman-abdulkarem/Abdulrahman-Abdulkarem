@@ -88,15 +88,15 @@ Currently, I’m diving deeper into the exciting world of **IoT**, learning how 
 <!-- Icon Buttons: Minimal Round -->
 <p align="left">
   <a href="https://www.linkedin.com/in/abdulrahman-alrawdhi/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn" style="border: none;"/>
+    <img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="LinkedIn" style="border-width:0; border:none;"/>
   </a>
   &nbsp;
   <a href="https://x.com/abdullrahmannx1" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="Twitter" style="border: none;"/>
+    <img src="https://img.icons8.com/color/48/twitterx--v1.png" alt="Twitter" style="border-width:0; border:none;"/>
   </a>
   &nbsp;
   <a href="mailto:abdullrahmannx@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" style="border: none;"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" style="border-width:0; border:none;"/>
   </a>
 </p>
 

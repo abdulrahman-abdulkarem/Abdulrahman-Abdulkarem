@@ -76,24 +76,24 @@
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFBB&vCenter=true&width=600&lines=I'd+love+to+connect+with+fellow+developers!;Have+a+project+in+mind%3F+Let's+talk.;Or+just+want+to+say+hi%3F+Email+me+anytime.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFBB&vCenter=true&width=600&lines=I'm+open+to+collaboration+%26+conversation.;Need+a+teammate+or+a+reviewer%3F;Just+want+to+say+hi%3F+Reach+out!">
 </p>
 
 <p align="center">
-  <a href="mailto:abdulrahman@example.com" target="_blank" title="Email me">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank" title="Connect on LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/abdulrahman-abdulkarem" target="_blank" title="Visit GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://your-portfolio.com" target="_blank" title="See my Portfolio">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" width="40" height="40"/>
+  <a href="mailto:abdulrahman@example.com" title="Email" target="_blank">
+    <img src="https://img.shields.io/badge/email-333333?style=for-the-badge&logo=maildotru&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/abdulrahman-abdulkarem" title="GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://your-portfolio.com" title="Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <em>"Open to collaborations, freelance gigs, or a good chat over coffee ☕"</em>
+  <em>“Let’s build, share, and learn together. I’m just one message away ☕”</em>
 </p>

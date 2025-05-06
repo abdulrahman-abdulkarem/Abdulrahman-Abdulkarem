@@ -55,28 +55,23 @@ Currently, I’m diving deeper into the exciting world of **IoT**, learning how 
 
 ## 📊 GitHub Summary & Insights
 
-<!-- 🔹 GitHub Profile Summary Card -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahman-abdulkarem&theme=github_dark" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahman-abdulkarem&theme=ayu_mirage" width="90%" />
 </p>
 
-<!-- 🔸 Contribution Stats & Productive Time -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrahman-abdulkarem&theme=github_dark" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrahman-abdulkarem&theme=github_dark&utcOffset=8" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrahman-abdulkarem&theme=ayu_mirage" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrahman-abdulkarem&theme=ayu_mirage&utcOffset=8" width="45%" />
 </p>
 
-<!-- 🔥 Commit Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrahman-abdulkarem&theme=github-dark&hide_border=true" width="90%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrahman-abdulkarem&theme=ayu-mirage&hide_border=true" width="90%" />
 </p>
 
-<!-- 🎨 Language Usage -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrahman-abdulkarem&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulrahman-abdulkarem&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrahman-abdulkarem&theme=ayu_mirage" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulrahman-abdulkarem&theme=ayu_mirage" width="45%" />
 </p>
-
 ---
 
 ## 🤝 Let's Connect

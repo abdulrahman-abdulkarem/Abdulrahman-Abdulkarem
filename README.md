@@ -23,7 +23,6 @@
 
 ## 🧠 Tech Stack
 
----
 
 ### 👨‍💻 Languages  
 <p>
@@ -33,7 +32,6 @@
   <img src="https://skillicons.dev/icons?i=cpp" width="25"/> &nbsp; C++
 </p>
 
----
 
 ### ⚙️ Frameworks & Libraries  
 <p>
@@ -43,7 +41,6 @@
   <img src="https://skillicons.dev/icons?i=nextjs" width="25"/> &nbsp; Next.js
 </p>
 
----
 
 ### 🗄️ Databases  
 <p>
@@ -51,7 +48,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" width="25"/> &nbsp; MySQL
 </p>
 
----
 
 ### 🚀 DevOps & Tools  
 <p>

@@ -80,25 +80,22 @@ Currently, I’m diving deeper into the exciting world of **IoT**, learning how 
 
 ### 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFBB&vCenter=true&width=600&lines=Have+a+project%3F+Need+a+dev%3F+Let's+talk.;I'm+just+an+email+away...;Or+connect+on+your+favorite+platform.">
+<p align="left" style="margin: 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFBB&width=650&lines=Have+a+project%3F+Need+a+dev%3F+Let's+talk.;I'm+just+an+email+away...;Or+connect+on+your+favorite+platform.">
 </p>
 
-<p align="center">
-  <a href="mailto:abdulrahman@example.com" target="_blank" title="Email me">
-    <img src="https://img.icons8.com/ios-filled/50/00e6b8/new-post.png" width="36" alt="Email" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/50/00aaff/linkedin.png" width="36" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/abdulrahman-abdulkarem" target="_blank" title="GitHub">
-    <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="36" alt="GitHub" style="background-color: #333; border-radius: 50%; padding: 5px;" />
-  </a>&nbsp;&nbsp;
-  <a href="https://your-portfolio.com" target="_blank" title="Visit Portfolio">
-    <img src="https://img.icons8.com/ios-filled/50/ffaa00/internet.png" width="36" alt="Website" />
+<p align="left" style="margin-top: -10px;">
+  <a href="https://www.linkedin.com/in/abdulrahman-alrawdhi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/abdullrahmannx1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:abdullrahmannx@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <em style="color: #aaa">Let’s build something meaningful, or just share some code and coffee ☕</em>
+  <em style="color:#999999;">Let’s collaborate, create, and connect — or just chat over coffee ☕</em>
 </p>

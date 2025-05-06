@@ -21,26 +21,34 @@
 
 ---
 
-### 🧠 Tech Stack
+## 🧠 <span style="color:#ff69b4;">Tech Stack</span>
 
-#### 👨‍💻 Languages
+---
+
+### 👨‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" title="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" height="45" />
 </p>
 
-#### ⚙️ Frameworks & Tools
+---
+
+### ⚙️ Frameworks & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" title="Frameworks & Tools" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" height="45" />
 </p>
 
-#### 🗄️ Databases
+---
+
+### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" title="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45" />
 </p>
 
-#### 🚀 DevOps & Other
+---
+
+### 🚀 DevOps & Other
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,postman,figma" title="DevOps & Other" />
+  <img src="https://skillicons.dev/icons?i=docker,git,postman,figma" height="45" />
 </p>
 
 ---

@@ -73,20 +73,29 @@
 
 ---
 
-### 📬 Connect with Me
+### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="mailto:abdulrahman@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFBB&vCenter=true&width=600&lines=I'd+love+to+connect+with+fellow+developers!;Have+a+project+in+mind%3F+Let's+talk.;Or+just+want+to+say+hi%3F+Email+me+anytime.">
+</p>
+
+<p align="center">
+  <a href="mailto:abdulrahman@example.com" title="Send me an email">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/your-linkedin/" title="Visit my LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio Badge"/>
+  <a href="https://your-portfolio.com" title="Check out my portfolio">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://github.com/abdulrahman-abdulkarem" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://github.com/abdulrahman-abdulkarem" title="My GitHub profile">
+    <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <em>"Open to collaborations, freelance gigs, or a good chat over coffee ☕"</em>
+</p>
+
 

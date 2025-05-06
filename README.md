@@ -21,29 +21,44 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-181717?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat&logo=typescript)
-![C++](https://img.shields.io/badge/-C++-181717?style=flat&logo=c%2B%2B)
-
-**Frameworks & Tools**  
-![React](https://img.shields.io/badge/-React-181717?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-181717?style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-181717?style=flat&logo=next.js)
-
-**Databases**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-181717?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat&logo=mysql)
-
-**DevOps & Other**  
-![Docker](https://img.shields.io/badge/-Docker-181717?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-181717?style=flat&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-181717?style=flat&logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-181717?style=flat&logo=figma)
+<table width="100%">
+  <tr>
+    <td width="25%"><strong>👨‍💻 Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Frameworks & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🚀 DevOps & Other</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 

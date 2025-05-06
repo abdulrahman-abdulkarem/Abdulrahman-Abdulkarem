@@ -11,7 +11,7 @@ I’m **Abdulrahman Abdulkarem**, currently pursuing a Bachelor's degree in Soft
 
 Currently, I’m diving deeper into the exciting world of **IoT**, learning how devices, code, and connectivity can shape the future. I believe in continuous learning, solving real-world problems, and designing systems that make life smarter and easier.
 
-> “The best way to predict the future is to invent it.” — Alan Kay
+> “Your most unhappy customers are your greatest source of learning.” — Bill Gates
 
 ---
 

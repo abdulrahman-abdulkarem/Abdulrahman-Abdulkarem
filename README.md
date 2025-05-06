@@ -47,7 +47,8 @@ Currently, I’m diving deeper into the exciting world of **IoT**, learning how 
 ### 🚀 DevOps & Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=git" width="25"/> Git &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="25"/> Figma &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="25"/> GitHub &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="25"/> Figma
 </p>
 
 ---
@@ -56,24 +57,24 @@ Currently, I’m diving deeper into the exciting world of **IoT**, learning how 
 
 <!-- 🔹 GitHub Profile Summary Card -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahman-abdulkarem&theme=tokyonight" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulrahman-abdulkarem&theme=github_dark" width="90%" />
 </p>
 
 <!-- 🔸 Contribution Stats & Productive Time -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrahman-abdulkarem&theme=tokyonight" width="45%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrahman-abdulkarem&theme=tokyonight&utcOffset=8" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrahman-abdulkarem&theme=github_dark" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdulrahman-abdulkarem&theme=github_dark&utcOffset=8" width="45%" />
 </p>
 
 <!-- 🔥 Commit Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrahman-abdulkarem&theme=tokyonight&hide_border=true" width="90%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrahman-abdulkarem&theme=github-dark&hide_border=true" width="90%"/>
 </p>
 
 <!-- 🎨 Language Usage -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrahman-abdulkarem&theme=tokyonight" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulrahman-abdulkarem&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrahman-abdulkarem&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulrahman-abdulkarem&theme=github_dark" width="45%" />
 </p>
 
 ---

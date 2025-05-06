@@ -3,10 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Karim+Mostafa+Ahmed;Software+Engineer+%7C+AI+Explorer+%7C+Problem+Solver;Welcome+to+my+GitHub+profile!">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
-
 ---
 
 ### 👨‍💻 About Me

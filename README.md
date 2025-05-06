@@ -23,27 +23,25 @@
 
 ### 🧠 Tech Stack
 
+#### 👨‍💻 Languages
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" title="Languages" />
 </p>
 
+#### ⚙️ Frameworks & Tools
 <p align="center">
-  <!-- Frameworks & Tools -->
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" title="Frameworks & Tools" />
 </p>
 
+#### 🗄️ Databases
 <p align="center">
-  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" title="Databases" />
 </p>
 
+#### 🚀 DevOps & Other
 <p align="center">
-  <!-- DevOps & Design -->
   <img src="https://skillicons.dev/icons?i=docker,git,postman,figma" title="DevOps & Other" />
 </p>
-
-
 
 ---
 

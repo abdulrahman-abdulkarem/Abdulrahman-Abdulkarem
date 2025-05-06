@@ -72,6 +72,7 @@ Currently, I’m diving deeper into the exciting world of **IoT**, learning how 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrahman-abdulkarem&theme=ayu_mirage" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdulrahman-abdulkarem&theme=ayu_mirage" width="45%" />
 </p>
+
 ---
 
 ## 🤝 Let's Connect

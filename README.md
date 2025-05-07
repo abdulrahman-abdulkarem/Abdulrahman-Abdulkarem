@@ -1,6 +1,6 @@
 <!-- INTRO: Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Abdulrahman+Abdulkarem;Software+Engineer+%7C+IoT+Explorer+%7C+Creative+Thinker;Welcome+to+my+GitHub+profile!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=CCCCCC&center=true&vCenter=true&width=700&lines=Hi+I'm+Abdulrahman+Abdulkarem;Software+Engineer+%7C+IoT+Explorer+%7C+Creative+Thinker;Welcome+to+my+GitHub+profile!">
 </p>
 
 ---

@@ -65,7 +65,7 @@ Currently, I’m diving deeper into the exciting world of **IoT**, learning how 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=abdulrahman-abdulkarem&theme=ayu-mirage&hide_border=true" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdulrahman-abdulkarem&theme=ayu-mirage&hide_border=true" width="90%" />
 </p>
 
 <p align="center">
